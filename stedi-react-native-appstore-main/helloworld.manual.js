@@ -1,2 +1,5 @@
 import {sayHello} from "./helloworld.mjs";
-console.log(sayHello);
+
+let manTest = sayHello();
+
+console.log(manTest);
